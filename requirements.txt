@@ -1,0 +1,5 @@
+prefect
+pandas
+pyarrow
+psycopg2
+sqlalchemy
